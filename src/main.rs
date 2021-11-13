@@ -8,15 +8,6 @@ fn main() {
    loop {
         println!("Please input your guess.");
 
-        // --snip--
-        //
-        //
-        //
-        //
-        //
-        //
-
-
         let mut guess = String::new();
 
         io::stdin()
